@@ -1,0 +1,6 @@
+Local Docker test - IT209-ss12-b4
+Container: it209-ss12-b4
+Endpoint: http://localhost:8080/actuator/health
+HTTP status: 200
+Response: {"status":"UP"}
+Note: Tested locally in WSL2 using Docker Desktop. This is not a successful VPS SSH deployment.
